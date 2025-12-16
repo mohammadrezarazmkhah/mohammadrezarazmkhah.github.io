@@ -1,7 +1,14 @@
 # mohammadrezarazmkhah.github.io
-#به نام خدا
+## In his name
+###Software engineering
+DR.Mahmood Mohammadi
+Mohammadreza Razmkhah
+TIC TAC TOE GAME
 
-##آزمایشگاه مهندسی نرم افزار
-###استاد دکتر محمود محمدی
-###توسعه دهنده محمدرضا رزمخواه
+
+# به نام خدا
+
+## آزمایشگاه مهندسی نرم افزار
+### استاد دکتر محمود محمدی
+### توسعه دهنده محمدرضا رزمخواه
 بازی TIC TAC TOE
